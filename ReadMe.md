@@ -1,6 +1,9 @@
 # 💫 About Me:
-Graduando em Analise e Desenvolvimento de Sistemas, <br><br>Conhecimento intermediário de Python, HTML e CSS<br><br>Conhecimento básico de MySQL e Java,
+Graduando em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia desde criança, busco uma oportunidade na área da tecnologia para mostrar meu potencial e me desenvolver como profissional.
 
+Possuo experiência com HTML, CSS e JavaScript
+
+Possuo conhecimento em Java, SpringBoot, Angular, lógica de programação, Python, C#, AWS e SQL.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-gomes-g9) 
